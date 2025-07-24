@@ -1,0 +1,21 @@
+[debug] [2025-07-24T01:56:13.571Z] ----------------------------------------------------------------------
+[debug] [2025-07-24T01:56:13.575Z] Command:       /nix/store/ws50yvm6vzlzf7jzz6n7xh4szddrack1-nodejs-20.19.1/bin/node /home/user/.global_modules/bin/firebase init
+[debug] [2025-07-24T01:56:13.576Z] CLI Version:   14.11.1
+[debug] [2025-07-24T01:56:13.576Z] Platform:      linux
+[debug] [2025-07-24T01:56:13.576Z] Node Version:  v20.19.1
+[debug] [2025-07-24T01:56:13.577Z] Time:          Thu Jul 24 2025 01:56:13 GMT+0000 (Coordinated Universal Time)
+[debug] [2025-07-24T01:56:13.577Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-07-24T01:56:13.583Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-07-24T01:56:13.584Z] > authorizing via signed-in user (caaalmvf@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /home/user/sistema-penalizacion
+
